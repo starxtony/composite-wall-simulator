@@ -3,7 +3,7 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Type name of the lab
 <b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment

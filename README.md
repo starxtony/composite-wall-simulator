@@ -1,1 +1,0 @@
-# composite-wall-simulator
